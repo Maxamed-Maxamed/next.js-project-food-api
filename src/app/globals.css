@@ -34,3 +34,15 @@ body {
     text-wrap: balance;
   }
 }
+
+@layer components {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+@layer base {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
